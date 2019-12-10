@@ -10,7 +10,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Risk Assessment](https://docs.google.com/document/d/1XxB0ynHKi2ZAGpRPNSpWqKPyd9UQXrqsGcAdovg_AYk/edit?usp=sharing)
 
-[Image Gallery](Images/Assessment1.md)
+[Image Gallery](Images/Assignment1/Assessment1.md)
 
 ## Assessment 2
 
