@@ -10,6 +10,16 @@ The documentation frontend for our SEPR project, 2019.
 
 [Risk Assessment](https://docs.google.com/document/d/1XxB0ynHKi2ZAGpRPNSpWqKPyd9UQXrqsGcAdovg_AYk/edit?usp=sharing)
 
+## Assessment 2
+
+[Architecture](https://docs.google.com/document/d/17pU1x0DD34lsgjRjt37OeiBD2nQfTLqlitaAS8W_Smk/edit?usp=sharing)
+
+[Implementation](https://docs.google.com/document/d/1Q3L1_HbhJCZ-UGAmRamI0bkDNyfXKLhxXQoO6BJtKIw/edit?usp=sharing)
+
+[Testing](https://docs.google.com/document/d/1tPLJ-EWeDOE6ude7JlbaPOVxBOhTlZRpfZanFT1V-R8/edit?usp=sharing)
+
+[Updates to Assessment 1](https://docs.google.com/document/d/1dSMNthgV26EyRlcCeONvhuqOBXVjZgA4DaS1DHoBjt0/edit?usp=sharing)
+
 ## Images
 [Image Repository](https://github.com/SEPR16/SEPR16.github.io/tree/master/Images)
 
