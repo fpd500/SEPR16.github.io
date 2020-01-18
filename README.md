@@ -22,7 +22,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Updates to Assessment 1](https://docs.google.com/document/d/1dSMNthgV26EyRlcCeONvhuqOBXVjZgA4DaS1DHoBjt0/edit?usp=sharing)
 
-[Image Gallery](Images/Assessment2.md)
+[Image Gallery](Images/Assignment2/Assessment2.md)
 
 ## Appendices
 [IEEE 29148 Standard](https://drive.google.com/a/york.ac.uk/file/d/16D3j55bur3vuNJafH8qle9jKWbT4A6v8/view?usp=sharing)
