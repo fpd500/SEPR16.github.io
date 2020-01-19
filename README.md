@@ -23,9 +23,9 @@ The documentation frontend for our SEPR project, 2019.
 
 ### Hand-In
 
-[Requirements](https://docs.google.com/document/d/1eTFJWHEw9euh6jQ7TbRP7mzuWFoB0qIecqU-Bx2l3UA/edit?usp=sharing)
+[Requirements](https://docs.google.com/document/d/17JfTq91l-9dCZaVaFxJoGubLILUlw9EhaqEPPKj_GCs/edit?usp=sharing)
 
-[Method Selection and Planning Outline](https://docs.google.com/document/d/1xRrIx0PL24o-OWrZw6a9mgeIyiD3apmQTWEupMFNqrk/edit?usp=sharing)
+[Method Selection and Planning Outline](https://docs.google.com/document/d/1dwewwjUQkECWFBtsb6lFr8TWFSzdwsB1BmPWf_Brehw/edit?usp=sharing)
 
 [Risk Assessment](https://docs.google.com/document/d/1XxB0ynHKi2ZAGpRPNSpWqKPyd9UQXrqsGcAdovg_AYk/edit?usp=sharing)
 
