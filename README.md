@@ -49,7 +49,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Code Repository [2s.6]](https://dev.azure.com/sepr16/_git/Game?path=%2F&version=GBmaster&_a=contents)
 
-[Java Docs [2s.6]](https://sepr16.github.io/Assessment2/JavaDocs/)
+[Java Docs [2s.7]](https://sepr16.github.io/Assessment2/JavaDocs/)
 
 
 ### Images
