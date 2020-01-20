@@ -44,7 +44,10 @@ The documentation frontend for our SEPR project, 2019.
 [Testing Design/Evidence [2s.2]](https://docs.google.com/document/d/1r1rafJILcJe_3tJiGrFYW8jeuJDwc1FPEGblsqmtd3M/edit?usp=sharing)
 
 [User Manual [2s.3]](https://docs.google.com/document/d/1CVhWFX8c_daLan4HWWiN7ordHZJuIHRjxXz7MzsgwB0/edit?usp=sharing)
-[Self Assessment [2s.4]](https://drive.google.com/open?id=1093pOxEASYVdZmH6doWV5UXxXJaZmZR9)
+
+[Executable [2s.5]](https://github.com/SEPR16/SEPR16.github.io/raw/master/desktop-1.0.jar)
+
+[Code Repository [2s.6]](https://dev.azure.com/sepr16/_git/Game?path=%2F&version=GBmaster&_a=contents)
 
 
 ### Images
