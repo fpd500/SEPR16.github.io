@@ -53,6 +53,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Java Docs [2s.7]](https://sepr16.github.io/Assessment2/JavaDocs/)
 
+[Gameplay Video [2s.8]](https://www.youtube.com/watch?v=bom6txFNvcM&feature=youtu.be)
 
 ### Images
 
