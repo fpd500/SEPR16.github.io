@@ -39,7 +39,7 @@ The documentation frontend for our SEPR project, 2019.
 
 ### Supplementary
 
-[Game Executable [2s.0]](https://drive.google.com/a/york.ac.uk/file/d/1HVo91m36OiRUsBHwIS2n-xfcn6kWcg_q/view?usp=sharing)
+[Game Executable [2s.0]](desktop-1.0.jar)
 
 [Traceability Matrix [2s.1]](https://docs.google.com/spreadsheets/d/1x0CG9MiFtrh2Vxmv7KBtYZwpXpDp49aunIc_EKc0hq0/edit?usp=sharing)
 
