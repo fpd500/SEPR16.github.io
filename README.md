@@ -113,8 +113,8 @@
 
 [Test Cases [4.]]
 
-[[Traceability Matrix [4.]]
+[[Traceability Matrix [4.]](Assessment4/Traceability%20Matrix.xlsx)
 
-[Updated Requirements [4.]]
+[Updated Requirements [4.]](Assessment4/Updated%20Requirements.pdf)
 
 
