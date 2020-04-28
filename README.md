@@ -107,7 +107,7 @@
 
 ### Supplementary
 
-[Game executable [4.4]](https://drive.google.com/open?id=1gyn4JVkFIBrEbY_uiMvpbsMNdhct1PfM)
+[Game executable [4.4]](https://drive.google.com/open?id=1tI2dVlA618z3zSP5w0r23ORxwU0CcTsp)
 
 [Test Cases [4.5]](Assessment4/Updated%20Test%20Cases.xlsx)
 
@@ -115,7 +115,5 @@
 
 [Updated Requirements [4.7]](Assessment4/Updated%20Requirements.pdf)
 
-[User manual [4.]]
-
-[Mozzarella Bytes website[4.]](https://sepr-docs.firebaseapp.com/)
+[Mozzarella Bytes website[4.8]](https://sepr-docs.firebaseapp.com/)
 
