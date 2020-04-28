@@ -75,9 +75,26 @@ The documentation frontend for our SEPR project, 2019.
 ### Mozzarella Bytes Assessment 3 documentation: 
 ### Hand-In
 
+[Requirements [3.1]](Assessment3/Req3.pdf)
+
+[Implementation [3.2]](Assessment3/Impl3.pdf)
+
+[Change report [3.3]](Assessment3/Change3.pdf)
+
+[Risk Assessment [3.4]](Assessment3/Risk3.pdf)
+
+[Testing [3.5]](Assessment3/Test3.pdf)
+
+[Method Selection and Planning [3.6]](Assessment3/Plan3.pdf)
 
 
+### Supplementary
 
+[Game executable [3.7]](https://drive.google.com/file/d/1JrKWkmvbMuxSY7VaGPlKx6p84xDuVZpI/view)
+
+[UML Diagram [3.8]](Assessment3/Plan3.pdf)
+
+[Balancing Report [3.9]](Assessment3/Balancing Report.pdf)
 
 
 
