@@ -117,4 +117,7 @@
 
 [Updated Requirements [4.]](Assessment4/Updated%20Requirements.pdf)
 
+[User manual [4.]]
+
 [Mozzarella Bytes website[4.]](https://sepr-docs.firebaseapp.com/)
+
