@@ -94,7 +94,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [UML Diagram [3.8]](Assessment3/Plan3.pdf)
 
-[Balancing Report [3.9]](Assessment3/Balancing Report.pdf)
+[Balancing Report [3.9]](Assessment3/Balancing%20Report.pdf)
 
 
 
